@@ -1,0 +1,7 @@
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\obj\Debug\Generics1-Csharp.csproj.AssemblyReference.cache
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\obj\Debug\Generics1-Csharp.csproj.CoreCompileInputs.cache
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\bin\Debug\Generics1-Csharp.exe.config
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\bin\Debug\Generics1-Csharp.exe
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\bin\Debug\Generics1-Csharp.pdb
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\obj\Debug\Generics1-Csharp.exe
+D:\wp_VS\Generics1-Csharp\Generics1-Csharp\obj\Debug\Generics1-Csharp.pdb
