@@ -8,7 +8,7 @@ namespace Generics1_Csharp
     {
         static void Main(string[] args)
         {
-            PrintService print = new PrintService();
+            PrintService<string> print = new PrintService<string>();
 
             Console.Write(" Entra com a quantidade de Valores a serem lidos: ");
             int qtd = int.Parse(Console.ReadLine());
@@ -17,7 +17,7 @@ namespace Generics1_Csharp
             {
 
                 Console.Write($"Digite {x}º valor: ");
-                int val = int.Parse(Console.ReadLine());
+                string val = Console.ReadLine();
 
                 print.AddValor(val);
 

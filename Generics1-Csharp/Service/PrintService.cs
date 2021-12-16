@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace Generics1_Csharp.Service
 {
-    class PrintService
+    // <T> Parametriza o serviço como <T> Generico poderia ser outra letra como E, G
+    class PrintService<T> 
     {
-        private int[] _valor = new int[10];
+        private T[] _valor = new T[10];
         private int _contador = 0;
 
 
-        public void AddValor(int valor)
+        public void AddValor(T valor)
         {
             if (_contador == 10)
             {
@@ -24,7 +25,7 @@ namespace Generics1_Csharp.Service
 
         }
 
-        public int Primeiro()
+        public T Primeiro()
         {
             if (_contador == 0)
 
